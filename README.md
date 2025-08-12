@@ -61,7 +61,9 @@ git clone https://github.com/yourusername/ecommerce-automation.git
 cd ecommerce-automation
 
 2.) Compile and run using your IDE or command line:
+
 javac -cp ".;path/to/selenium-jars/*" your/package/structure/*.java
+
 
 java -cp ".;path/to/selenium-jars/*" your.package.structure.YourMainTestClass
 
